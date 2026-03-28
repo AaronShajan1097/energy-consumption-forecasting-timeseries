@@ -1,0 +1,10 @@
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.ipynb_checkpoints/
+
+data/raw/household_power_consumption.txt
