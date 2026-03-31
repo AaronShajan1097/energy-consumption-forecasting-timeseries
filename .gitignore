@@ -7,4 +7,5 @@ env/
 __pycache__/
 .ipynb_checkpoints/
 
+# Dataset (100mb+)
 data/raw/household_power_consumption.txt
