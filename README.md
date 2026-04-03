@@ -184,7 +184,7 @@ notebooks/Final_Energy_Forecasting.ipynb
 
 Or open the Colab notebook:
 
-👉 **Colab Link:** *(https://colab.research.google.com/drive/1ibOfD6QU9dqHFQEISK25x6ydBFzjE9Dl?usp=sharing)*
+👉 **Colab Link:** *https://colab.research.google.com/drive/1ibOfD6QU9dqHFQEISK25x6ydBFzjE9Dl?usp=sharing*
 
 ---
 
@@ -196,9 +196,9 @@ Or open the Colab notebook:
 
 ## 📌 Submission Links
 
-* **GitHub Repository:** *(https://github.com/AaronShajan1097/energy-consumption-forecasting-timeseries.git)*
-* **Colab Notebook:** *(https://colab.research.google.com/drive/1ibOfD6QU9dqHFQEISK25x6ydBFzjE9Dl?usp=sharing)*
-* **YouTube Video:** *(Add your link here)*
+* **GitHub Repository:** *https://github.com/AaronShajan1097/energy-consumption-forecasting-timeseries.git*
+* **Colab Notebook:** *https://colab.research.google.com/drive/1ibOfD6QU9dqHFQEISK25x6ydBFzjE9Dl?usp=sharing*
+* **YouTube Video:** **
 
 ---
 
