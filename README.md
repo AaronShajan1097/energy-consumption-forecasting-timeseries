@@ -198,7 +198,7 @@ Or open the Colab notebook:
 
 * **GitHub Repository:** *https://github.com/AaronShajan1097/energy-consumption-forecasting-timeseries.git*
 * **Colab Notebook:** *https://colab.research.google.com/drive/1ibOfD6QU9dqHFQEISK25x6ydBFzjE9Dl?usp=sharing*
-* **YouTube Video:** **
+* **YouTube Video:** *https://youtu.be/6ZSUatMKIJw*
 
 ---
 
@@ -224,4 +224,5 @@ The Prophet model proved to be the most effective due to its ability to capture 
 ## 👨‍💻 Author
 
 **Aaron Shajan**
+
 AI/ML Engineer
