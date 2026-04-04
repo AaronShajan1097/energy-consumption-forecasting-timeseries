@@ -190,7 +190,7 @@ Or open the Colab notebook:
 
 ## 🎥 Demo Video
 
-👉 **YouTube (Unlisted):** *(Add your link here)*
+👉 **YouTube (Unlisted):** *https://youtu.be/6ZSUatMKIJw*
 
 ---
 
